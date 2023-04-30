@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lady Gaga "},
+                  "SongTitle": {"S": "Blood Mary"},
+                  "AlbumTitle": {"S": "Born This Way"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ghost"},
+                  "SongTitle": {"S": "Mary On A Cross"},
+                  "AlbumTitle": {"S": "Seven Inches of Satanic Panic"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        { 
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Nina Simone"},
+                  "SongTitle": {"S": "Feeling Good"},
+                  "AlbumTitle": {"S": "I Put a Spell on You"},
+                  "SongYear": {"S": "1994"}
+                }
+            }
+        }
+      ]
+}

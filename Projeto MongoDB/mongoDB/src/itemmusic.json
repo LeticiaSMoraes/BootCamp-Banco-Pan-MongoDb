@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Artista"},
+  "SongTitle": {"S": "Título"},
+  "AlbumTitle": {"S": "Album"},
+  "SongYear": {"S": "Ano"}
+}
